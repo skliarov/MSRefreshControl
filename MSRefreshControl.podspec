@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                       DESC
   s.license          = 'MIT'
   s.author           = { "Maksym Skliarov" => "maksym.skliarov@gmail.com" }
-  s.source           = { :git => "git@github.com:skliarov/MSRefreshControl.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/skliarov/MSRefreshControl.git", :tag => s.version.to_s }
   s.homepage         = 'https://github.com/skliarov/MSRefreshControl'
 
   s.platform     = :ios, '5.0'
