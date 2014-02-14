@@ -9,6 +9,7 @@ Simple pull-to-refresh control for UITableView. It's my replication of pull-to-r
 
 ## Screenshots
 
+![Snapshots](Screenshots/Screenshots.png) 
 
 ## Usage
 
