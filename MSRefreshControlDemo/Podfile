@@ -1,7 +1,1 @@
 pod "MSRefreshControl", :path => "../MSRefreshControl.podspec"
-
-target "Demo" do
-end
-
-target "DemoTests" do
-end

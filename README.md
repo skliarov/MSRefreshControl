@@ -3,11 +3,20 @@
 [![Version](http://cocoapod-badges.herokuapp.com/v/MSRefreshControl/badge.png)](http://cocoadocs.org/docsets/MSRefreshControl)
 [![Platform](http://cocoapod-badges.herokuapp.com/p/MSRefreshControl/badge.png)](http://cocoadocs.org/docsets/MSRefreshControl)
 
+## About
+
+Simple pull-to-refresh control for UITableView. It's my replication of pull-to-refresh control from BBC News app. Inspired by [EGOTableViewPullRefresh](https://github.com/enormego/EGOTableViewPullRefresh).
+
+## Screenshots
+
+
 ## Usage
 
-To run the example project; clone the repo, and run `pod install` from the Project directory first.
+To see how it works just download [ZIP](https://github.com/skliarov/MSRefreshControl/archive/master.zip), unpack it and open a demo project (MSRefreshControl.xcworkspace). I hope you will like it. All kind of improvements and changes are welcome.
 
 ## Requirements
+- ARC
+- iOS 5.0+
 
 ## Installation
 

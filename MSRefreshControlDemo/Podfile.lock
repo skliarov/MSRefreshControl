@@ -1,0 +1,14 @@
+PODS:
+  - MSRefreshControl (0.1.0)
+
+DEPENDENCIES:
+  - MSRefreshControl (from `../MSRefreshControl.podspec`)
+
+EXTERNAL SOURCES:
+  MSRefreshControl:
+    :path: ../MSRefreshControl.podspec
+
+SPEC CHECKSUMS:
+  MSRefreshControl: 8296c0f7c4fa610ef9d0fdd286e79deffac69e53
+
+COCOAPODS: 0.29.0
